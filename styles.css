@@ -39,7 +39,7 @@ body{
 .navbar a{
     position: relative;
     font-size: 18px;
-    color: #0f1f33;
+    color: #2b5588;
     font-weight: 500;
     text-decoration: none;
     margin-left: 40px;
@@ -59,4 +59,10 @@ body{
 
 .navbar a:hover::before {
 width: 100%
+}
+
+.facebook{
+    width: 20px;
+    height: 20px;
+    margin-left: 50px;
 }
